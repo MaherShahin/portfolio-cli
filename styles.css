@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+  
+  html, body {
+    height: 100%;
+  }
+  
+  body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .terminal {
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    min-width: 70vh;
+    max-width: 70vh;
+    min-height: 90vh;
+    overflow-y: auto;
+    max-height: 90vh;
+  }
+  
+  
+  .output {
+    color: white;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+  }
+  
+  .input-line {
+    display: flex;
+    align-items: center;
+  }
+  
+  .prefix {
+    color: white;
+    margin-right: 5px;
+  }
+  
+  .input {
+    background-color: black;
+    border: none;
+    color: white;
+    outline: none;
+    flex-grow: 1;
+  }
+  
+  .input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+  .info {
+    color: dodgerblue;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: white;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: black;
+    border-radius: 10px;
+  }
+  
+  .hidden-cursor {
+    caret-color: transparent;
+  }
+  
