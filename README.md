@@ -24,7 +24,7 @@ In addition to the standard commands, there is a cv module that allows you to ac
 - --skills or -s - Present technical skills
 - --projects or -p - Showcase projects with descriptions and links
 - --contact or -c - Display contact information
-## Keyboard Interrupt (to be iumplemented - buggy right now and doesn't work :(!)
+## Keyboard Interrupt (to be implemented - buggy right now and doesn't work :(!)
 The CLI portfolio also features a keyboard interrupt that allows you to stop the output and input a new command at any time. Simply press Ctrl-C to trigger the interrupt and input a new command.
 
 ## Built With
