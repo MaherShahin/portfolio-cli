@@ -30,7 +30,7 @@ The CLI portfolio also features a keyboard interrupt that allows you to stop the
 ## To-do
 - Add more projects to the displayProjects() function -> should look a little nicer
 - Implement a search functionality to easily find relevant information
-- Create an API that serves Maher's CV information dynamically
+- Create an API that serves CV information dynamically if new information in the local CV has been updated
 - Add more interactivity to the terminal, such as animations and sound effects
 - Allow users to customize the appearance of the terminal, including color scheme and font size.
 
