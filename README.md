@@ -27,6 +27,16 @@ In addition to the standard commands, there is a cv module that allows you to ac
 ## Keyboard Interrupt (to be implemented - buggy right now and doesn't work :(!)
 The CLI portfolio also features a keyboard interrupt that allows you to stop the output and input a new command at any time. Simply press Ctrl-C to trigger the interrupt and input a new command.
 
+## To-do
+- Add more projects to the displayProjects() function -> should look a little nicer
+- Implement a search functionality to easily find relevant information
+- Create an API that serves Maher's CV information dynamically
+- Add more interactivity to the terminal, such as animations and sound effects
+- Allow users to customize the appearance of the terminal, including color scheme and font size.
+
+## Deployment Plan
+- Too lazy and poor currently to deploy it to Heroku, but will initalize a new Node.js project at some point in time and host it... just not now.
+
 ## Built With
 - HTML
 - CSS
