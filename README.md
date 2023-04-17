@@ -1,7 +1,10 @@
 
 
 # Interactive CLI Portfolio
-This project is an interactive command-line portfolio that showcases the skills, experience, and projects of Maher Shahin, a digital alchemist and master of the arcane arts. With a focus on creating marvels in the digital realm, Maher invites you on an epic journey through his realm of digital creation.
+This project is an interactive command-line portfolio that showcases the skills, experience, and projects of myself, a self-proclaimed digital alchemist and master of the arcane arts. 
+
+Highly exaggerated, pretty funny, and epic!
+
 
 ## Getting Started
 To use this CLI portfolio, simply open the index.html file in your web browser. You will be presented with a terminal-like interface where you can enter commands and explore Maher's skills, experience, and projects.
