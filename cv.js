@@ -139,3 +139,4 @@ function displayGeneralHelp() {
     <div><span class="success">clear</span> - Clear the terminal output</div>
   `;
 }
+ls

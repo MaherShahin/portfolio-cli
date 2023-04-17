@@ -10,12 +10,12 @@ const rootDirectory = {
     document1: {
       name: 'document1.txt',
       type: 'file',
-      content: 'https://drive.google.com/path/to/document1',
+      content: '#',
     },
     document2: {
       name: 'document2.txt',
       type: 'file',
-      content: 'https://drive.google.com/path/to/document2',
+      content: '#',
     },
   },
 };
