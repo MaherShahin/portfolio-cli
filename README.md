@@ -7,7 +7,7 @@ Highly exaggerated, pretty funny, and epic!
 
 
 ## Getting Started
-To use this CLI portfolio, simply open the index.html file in your web browser. You will be presented with a terminal-like interface where you can enter commands and explore Maher's skills, experience, and projects.
+To use this CLI portfolio, simply download the directory and use VSCode Live Server - or similair to launch index.html. You will be presented with a terminal-like interface where you can enter commands and explore Maher's skills, experience, and projects. (Deployed version planned)
 
 ## Features
 ### Command Structure
