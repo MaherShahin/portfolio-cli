@@ -5,6 +5,9 @@ This project is an interactive command-line portfolio that showcases the skills,
 
 Highly exaggerated, pretty funny, and epic!
 
+# Live Version
+https://mahers-portfolio.herokuapp.com/
+
 
 ## Getting Started
 To use this CLI portfolio, simply download the directory and use VSCode Live Server - or similair to launch index.html. You will be presented with a terminal-like interface where you can enter commands and explore Maher's skills, experience, and projects. (Deployed version planned)
@@ -37,8 +40,6 @@ The CLI portfolio also features a keyboard interrupt that allows you to stop the
 - Add more interactivity to the terminal, such as animations and sound effects
 - Allow users to customize the appearance of the terminal, including color scheme and font size.
 
-## Deployment Plan
-- Too lazy and poor currently to deploy it to Heroku, but will initalize a new Node.js project at some point in time and host it... just not now.
 
 ## Built With
 - HTML
