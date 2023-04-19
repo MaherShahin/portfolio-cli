@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-cli",
+  "version": "1.0.0",
+  "description": "This project is an interactive command-line portfolio that showcases the skills, experience, and projects of myself, a self-proclaimed digital alchemist and master of the arcane arts.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaherShahin/portfolio-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaherShahin/portfolio-cli/issues"
+  },
+  "homepage": "https://github.com/MaherShahin/portfolio-cli#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
