@@ -5,7 +5,7 @@ This project is an interactive command-line portfolio that showcases the skills,
 
 Highly exaggerated, pretty funny, and epic!
 
-# Live Version
+# Live Version (Currently Offline) - need to pay Heroku their money
 https://mahers-portfolio.herokuapp.com/
 
 
